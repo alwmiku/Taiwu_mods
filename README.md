@@ -10,6 +10,4 @@
 4. ActorMenu之类的在 Assembly-CSharp.dll里，有加密，解开即可
 
 
-
-#讨论，qq群 90311 09 62
-
+直接fork的别人的。
